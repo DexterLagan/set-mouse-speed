@@ -10,6 +10,6 @@ set-mouse-speed 5
 </pre>
 How to compile:
 <pre>
-newlisp -x set-mouse-speed.lsp
+newlisp -x set-mouse-speed.lsp set-mouse-speed
 </pre>
 Sets the mouse cursor sensitivity to 5 out of 10.
