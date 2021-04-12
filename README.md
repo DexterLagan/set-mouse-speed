@@ -17,7 +17,7 @@ Linux:
 ./set-mouse-speed 5
 </pre>
 
-## How to compile
+## How to build
 Windows:
 <pre>
 newlisp -x set-mouse-speed.lsp set-mouse-speed.exe
@@ -29,5 +29,5 @@ newlisp -x set-mouse-speed.lsp set-mouse-speed
 
 <br>
 Cheers,
-
+<br>
 Dex
