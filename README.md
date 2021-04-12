@@ -5,7 +5,7 @@ A tiny, very fast native Windows program that sets the mouse cursor sensitivity 
 <pre>
 ./set-mouse-speed.exe [1-20]
 </pre>
-Example:
+Windows:
 <pre>
 ./set-mouse-speed.exe 5
 </pre>
@@ -22,7 +22,6 @@ Windows:
 <pre>
 newlisp -x set-mouse-speed.lsp set-mouse-speed.exe
 </pre>
-
 Linux:
 <pre>
 newlisp -x set-mouse-speed.lsp set-mouse-speed
